@@ -1,0 +1,762 @@
+
+  /* Mobile commands below */
+
+  .HighlightboxText {
+
+    background-color: yellow;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+  
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+.tzeitelmotelPictureBottom {
+
+  display: none;
+
+}
+  
+    .HeaderDesk {
+  
+    display: none;
+  
+  }
+
+
+  .heroHeaderMobile {
+
+    color: red;
+    font-size: 70px;
+    margin-top: 50px;
+
+    margin-top: 160px;
+    margin-bottom: 160px;
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+.herotextMobile {
+
+  font-size: 55px;
+  color: white;
+
+  -webkit-text-stroke: 1px red;
+
+  font-weight: 900;
+
+
+  
+}
+
+
+.HeaderDesk {
+
+  display: none;
+
+}
+
+
+
+.main2 {
+
+padding-left: 40px;
+padding-right: 40px;
+
+
+}
+
+
+.MainHeaderIndex {
+
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 40px;
+padding-right: 40px;  }
+
+
+
+
+
+.allabord {
+
+  padding-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 105px;
+  line-height: 110px;
+  color: yellow;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color:black;
+  color: white;
+  
+  }
+
+  .proW {
+
+    color: white;
+  }
+
+
+
+  .img-banner {
+
+  
+
+    width: 100%;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    position: flex;
+  
+  }
+  
+  .img-bannerM {
+
+    display: none;
+
+
+  
+  }
+
+
+
+  #features {
+
+    
+    padding: 5% 4%;
+    position: flex;
+    
+    }
+  
+  
+  
+
+  .pictureMain{
+  
+    display: block;
+    text-align: center;
+    flex-direction: column;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 65px;
+    margin-bottom: 65px;
+
+    height: 80%;
+    width: 80%;
+  
+    
+  
+  }
+
+  .tzeitelmotelPictureTop{
+  
+    padding-top: 70px;
+    padding-bottom: 40px;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+
+  
+  
+  }
+
+  
+  .bodytext{
+  
+    font-size: 64px;
+    line-height: 84px;
+  
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+
+  
+  
+
+
+  #allAbord_block{
+  
+    background-color: red;
+    display: flex;
+  }
+
+  .TzeitelMotelPic{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+  }
+
+  .TzeitelMotelPic:hover {
+
+  
+  
+  }
+  
+
+  
+ 
+  
+  
+  
+  .fiddlerBlock {
+
+    padding-top: 70px;
+    padding-bottom: 40px;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+  
+  }
+  
+  #testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+  
+  }
+  
+  .testimonial-text{
+  
+  font-family: "Ubuntu";
+  color: tan;
+  text-align: center;
+  font-size: 45px ;
+  
+  
+  }
+  
+  
+
+  .pro {
+
+    color: red;
+  }
+  
+  
+  
+  /* my resume journey awaits */
+  
+  
+  .MainMessage {
+  
+    padding-top: 25px;
+    padding-bottom: 65px;
+
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 70px;
+    line-height: 80px;
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+  }
+  
+  .MainMessageSub {
+  
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 110px;
+
+    margin-left: 25px;
+    margin-right: 25px;
+
+  
+  }
+  
+  .video {
+
+    width:500px;
+    height: 281px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+  }
+  
+  
+  
+
+
+  
+  
+  /* Footer Section */
+  
+  .footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:yellow;
+    background-color: black;
+    
+    }
+  
+    hr {
+  
+      border: solid red 6px;
+      border-bottom: none;
+      width: 74%;
+      margin: 100px auto;
+    
+    }
+
+    .shopNsavePic {
+      padding-top: 60px;
+      padding-bottom: 60px;
+      height: 90%;
+      width: 90%;
+      position:static;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    
+      margin-left: auto;
+      margin-right: auto;
+    
+    
+      display: block;
+    
+    }
+
+
+    .yellowTitleBar {
+
+      background-color: yellow;
+      text-align: center;
+      font-size: 45px;
+      color: red;
+
+      padding-top: 45px;
+      padding-bottom: 85px;
+
+      padding-left: 35px;
+      padding-right: 35px;
+
+      font-family:Arial, Helvetica, sans-serif;
+    }
+
+
+
+  /* Desktop commands below */
+
+  
+@media screen and (min-width:1000px) {
+
+
+  .video {
+
+    width:900px;
+    height: 506px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+  }
+
+  .fiddlerBlock {
+
+    padding-top: 70px;
+    padding-bottom: 40px;
+    height: 70%;
+    width: 70%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+  
+  }
+
+  .MainMessage {
+  
+    padding-top: 25px;
+    padding-bottom: 65px;
+
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 50px;
+    line-height: 60px;
+    color: yellow;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+  }
+
+
+
+
+
+  .booktitleblockpic {
+
+    height: 50%;
+    width: 50%;
+    display: flex;
+  
+    padding-left: 30px;
+    padding-right: 30px;
+    flex-direction: row;
+  }
+
+
+  .bookicon {
+
+    width: 50vh;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    font-size: 20pt;
+    line-height: 23px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+  }
+
+
+  .paragraphbooktext {
+
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    font-size: 34px;
+    line-height: 43px;
+    text-align: left;
+  
+    margin-left: 35px;
+    margin-right: 35px;
+
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+  
+  }
+
+  .HighlightboxText {
+
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+  
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+
+
+
+
+
+  .HeaderDesk {
+
+    color: red;
+    font-size: 100px;
+    margin-top: 50px;
+
+    margin-bottom: 60px;
+
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  }
+  
+  .herotextDesk {
+  
+    font-size: 55px;
+    color: white;
+  
+    -webkit-text-stroke: 1px red;
+  
+    font-weight: 900;
+      
+  }
+
+  .pictureMain{
+  
+    display: flex;
+    
+
+  
+  
+  }
+  
+
+  .TzeitelMotelPic{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 50px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:50%;
+    width:50%;
+
+    border: 20px solid red;
+    background-color: yellow;
+
+  
+  
+  }
+
+  .tzeitelmotelPictureTop{
+  
+  display: none;
+
+  
+  }
+
+
+
+
+  .herobackgroundTop {
+  
+    background-color: #074f57;
+  
+    background-image: url(../images/pledge.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+    margin-left: 40px;
+    margin-right: 40px;
+
+    display: block;
+
+
+  }
+
+  .herobackgroundBottom {
+  
+    background-color: red;
+  
+    background-image: url(../images/pledge.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    height: 100%;
+    width: 100%;
+
+    color: white;
+
+
+  }
+
+
+  .heroHeaderMobile {
+
+    color: yellow;
+    font-size: 60px;
+    margin-top: 290px;
+
+    -webkit-text-stroke: 3px red;
+
+    text-align: center;
+
+
+  }
+
+
+
+    .yellowTitleBar {
+
+      background-color: yellow;
+      text-align: center;
+      font-size: 35px;
+      color: red;
+
+      padding-top: 45px;
+      padding-bottom: 85px;
+
+      padding-left: 55px;
+      padding-right: 55px;
+
+      padding-top: 100px;
+      padding-bottom: 100px;
+
+
+      font-family:Arial, Helvetica, sans-serif;
+
+    }
+  
+    .shadowBilly{
+  
+      display: block;
+      padding-top: 75px;
+      padding-bottom: 75px;
+      height:50%;
+      width:50%;
+      float: left;
+      margin-top: 50px;
+    
+    }
+
+
+    .pro {
+
+      color: red;
+    }
+
+
+    .bodytext{
+  
+      font-size: 28px;
+      line-height: 38px;
+      padding-left: 65px;
+      padding-right: 65px;
+
+      padding-top: 65px;
+      padding-bottom: 65px;
+
+      color: black;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  
+
+
+
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
